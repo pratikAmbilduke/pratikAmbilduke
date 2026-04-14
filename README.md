@@ -1,87 +1,116 @@
-# 👋 Hi there, I'm Pratik Ambilduke!
+<!-- Typing Animation -->
+<h1 align="center">
+  Hi 👋, I'm Pratik Ambilduke
+</h1>
 
-💻 Aspiring Software Developer  
-🚀 Java Full Stack Developer | Python  
-🤖 Building Real-world AI Projects  
+<h3 align="center">
+  🚀 Java Full Stack Developer | 🤖 AI Builder | 💻 Problem Solver
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Full+Stack+Engineer;AI+Project+Builder;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Student (2021–2025)
-- 💻 Strong in Java, Spring Boot & Backend Development
-- 🤖 Currently building **ResQ AI (Emergency Smart App)**
-- 📍 Based in Pune, India
-- 🚀 Passionate about solving real-world problems using technology
+- 💻 Passionate about **Full Stack Development & AI**
+- 🚑 Building **ResQ AI (Emergency Smart App)**
+- 📍 Pune, India
+- 🚀 Goal: Become a top software developer & build impactful products
 
 ---
 
 ## 🚀 Currently Working On
 
-- 🔹 ResQ AI (AI-powered Emergency App)
+- 🔹 ResQ AI (AI-powered Emergency System)
 - 🔹 FastAPI Backend Development
-- 🔹 PostgreSQL Database Integration
-- 🔹 Real-time Location Tracking System
+- 🔹 PostgreSQL Integration
+- 🔹 Real-time Location Tracking
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- Java
-- Python
-- C / C++
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+</p>
 
 ### 🌐 Web & Backend
-- Spring Boot
-- REST APIs
-- FastAPI
-- Node.js (Basics)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react" />
+</p>
 
 ### 🗄️ Database
-- MySQL
-- PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- VS Code
-- IntelliJ IDEA
-- Postman
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🚑 ResQ AI
-AI-powered emergency response system with real-time location sharing and smart alerts.
+> AI-powered emergency response system with real-time location sharing & alerts.
 
 ### 🔧 Smart Service App
-Connects users with nearby service providers with live tracking.
+> Connects users with nearby service providers with live tracking.
 
-### 🌐 Full Stack Web Applications
-Built using Java, Spring Boot, and MySQL.
+### 🌐 Full Stack Web Apps
+> Built using Java, Spring Boot & MySQL.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikAmbilduke&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikAmbilduke&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikAmbilduke&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikAmbilduke&layout=compact&theme=dark)
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pratikAmbilduke&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/pratik-ambilduke-9a1361256/
-- 📧 Email: pratikambilduke09@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/pratik-ambilduke-9a1361256/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:pratikambilduke09@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🔥 Profile Info
+## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=pratikAmbilduke&color=blue)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pratikAmbilduke&color=blue" />
+</p>
 
 ---
 
-⭐ Keep Learning | Keep Building | Keep Growing 🚀
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat." 🔥
+
+---
+
+⭐ From [PratikAmbilduke](https://github.com/pratikAmbilduke)
