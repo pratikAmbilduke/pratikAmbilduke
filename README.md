@@ -68,12 +68,11 @@ Application connecting users with nearby service providers.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pratikAmbilduke/pratikAmbilduke/output/github-snake.svg" />
 </p>
-
 ---
 
 ## 🎯 Career Focus
