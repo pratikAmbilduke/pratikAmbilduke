@@ -1,14 +1,9 @@
-<!-- Typing Animation -->
-<h1 align="center">
-  Hi 👋, I'm Pratik Ambilduke
-</h1>
-
-<h3 align="center">
-  🚀 Java Full Stack Developer | 🤖 AI Builder | 💻 Problem Solver
-</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm Pratik Ambilduke</h1>
+<h3 align="center">🚀 Java Full Stack Developer | 🤖 AI Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Full+Stack+Engineer;AI+Project+Builder;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Full+Stack+Engineer;AI+Project+Builder;Always+Learning&center=true&width=500&height=45">
 </p>
 
 ---
@@ -16,56 +11,28 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Student (2021–2025)
-- 💻 Passionate about **Full Stack Development & AI**
-- 🚑 Building **ResQ AI (Emergency Smart App)**
+- 💻 Java Full Stack Developer
+- 🤖 Building **ResQ AI (Emergency Smart App)**
 - 📍 Pune, India
-- 🚀 Goal: Become a top software developer & build impactful products
-
----
-
-## 🚀 Currently Working On
-
-- 🔹 ResQ AI (AI-powered Emergency System)
-- 🔹 FastAPI Backend Development
-- 🔹 PostgreSQL Integration
-- 🔹 Real-time Location Tracking
+- 🚀 Focused on real-world problem solving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
-</p>
-
-### 🌐 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,spring,nodejs,react,mysql,postgres,git,github,vscode,idea,postman" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Projects
 
 ### 🚑 ResQ AI
-> AI-powered emergency response system with real-time location sharing & alerts.
+AI-powered emergency response system with real-time location tracking.
 
 ### 🔧 Smart Service App
-> Connects users with nearby service providers with live tracking.
-
-### 🌐 Full Stack Web Apps
-> Built using Java, Spring Boot & MySQL.
+Connects users with nearby service providers.
 
 ---
 
@@ -86,9 +53,17 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratikAmbilduke/pratikAmbilduke/output/github-snake.svg" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/pratik-ambilduke-9a1361256/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -101,16 +76,10 @@
 
 ## 👀 Profile Views
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratikAmbilduke&color=blue" />
 </p>
 
 ---
 
-## 💡 Quote
-
-> "Code. Learn. Build. Repeat." 🔥
-
----
-
-⭐ From [PratikAmbilduke](https://github.com/pratikAmbilduke)
+⭐ Keep Learning | Keep Building 🚀
