@@ -1,42 +1,87 @@
-# Hi 👋, I'm Pratik Ambilduke
+# 👋 Hi there, I'm Pratik Ambilduke!
 
 💻 Aspiring Software Developer  
-🚀 Passionate about building real-world applications  
-🤖 Currently working on AI-based projects  
+🚀 Java Full Stack Developer | Python  
+🤖 Building Real-world AI Projects  
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Student (2021–2025)
-- 💻 Java Full Stack Developer
-- 🤖 Building AI-based projects like ResQ AI
+- 💻 Strong in Java, Spring Boot & Backend Development
+- 🤖 Currently building **ResQ AI (Emergency Smart App)**
 - 📍 Based in Pune, India
-- 🚀 Passionate about solving real-world problems
+- 🚀 Passionate about solving real-world problems using technology
 
-- --
+---
 
-## 🔧 Skills
-- Java (Full Stack)
-- Spring Boot
-- MySQL
+## 🚀 Currently Working On
+
+- 🔹 ResQ AI (AI-powered Emergency App)
+- 🔹 FastAPI Backend Development
+- 🔹 PostgreSQL Database Integration
+- 🔹 Real-time Location Tracking System
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Java
 - Python
+- C / C++
+
+### 🌐 Web & Backend
+- Spring Boot
 - REST APIs
+- FastAPI
+- Node.js (Basics)
+
+### 🗄️ Database
+- MySQL
+- PostgreSQL
+
+### ⚙️ Tools & Technologies
 - Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
 
 ---
 
-## 📌 Projects
-- 🔹 ResQ AI (Emergency Smart Service App)
-- 🔹 Service Provider App
-- 🔹 Full Stack Web Applications
+## 🌟 Featured Projects
+
+### 🚑 ResQ AI
+AI-powered emergency response system with real-time location sharing and smart alerts.
+
+### 🔧 Smart Service App
+Connects users with nearby service providers with live tracking.
+
+### 🌐 Full Stack Web Applications
+Built using Java, Spring Boot, and MySQL.
 
 ---
 
-## 📫 Contact Me
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikAmbilduke&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikAmbilduke&layout=compact&theme=dark)
 
 ---
 
-⭐ Keep learning, keep building!
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 📧 Email: yourmail@gmail.com
+
+---
+
+## 🔥 Profile Info
+
+![Profile Views](https://komarev.com/ghpvc/?username=pratikAmbilduke&color=blue)
+
+---
+
+⭐ Keep Learning | Keep Building | Keep Growing 🚀
