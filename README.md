@@ -40,8 +40,8 @@ Software developer with strong expertise in **Java Full Stack Development**, bac
 
 ## 🚀 Key Projects
 
-### 🔹 ResQ AI  
-AI-powered emergency response system with real-time location tracking and smart alerts.
+### 🔹 🚨 ResQ AI 
+An AI-powered emergency response system designed to provide fast, reliable help during critical situations. Focused on real-world usability, location intelligence, and scalable architecture.
 
 ### 🔹 Smart Service Platform  
 Application connecting users with nearby service providers.
