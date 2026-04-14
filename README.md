@@ -10,21 +10,15 @@
   </a>
 </p>
 
----
-
-## 👨‍💻 Profile
-
-Software developer with hands-on experience in **Java Full Stack Development**, backend systems, and API design. Focused on building scalable applications and currently developing **AI-based real-world solutions**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Backend+Engineer;AI+Project+Builder;Problem+Solver&center=true&width=500&height=40">
+</p>
 
 ---
 
-## 🧠 Core Skills
+## 👨‍💻 Professional Summary
 
-- Backend Development (Java, Spring Boot, FastAPI)
-- REST API Design & Integration
-- Database Design (MySQL, PostgreSQL)
-- Problem Solving (DSA)
-- Version Control (Git, GitHub)
+Software developer with strong expertise in **Java Full Stack Development**, backend systems, and API design. Focused on building scalable applications and currently developing **AI-based real-world solutions**.
 
 ---
 
@@ -39,24 +33,45 @@ Software developer with hands-on experience in **Java Full Stack Development**, 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST API-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Key Projects
 
-### 🔹 ResQ AI – Emergency Response System  
-AI-powered application with real-time location tracking and smart alert system.
+### 🔹 ResQ AI  
+AI-powered emergency response system with real-time location tracking and smart alerts.
 
 ### 🔹 Smart Service Platform  
-Application connecting users with local service providers with live interaction features.
+Application connecting users with nearby service providers.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikAmbilduke&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikAmbilduke&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pratikAmbilduke&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikAmbilduke&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikAmbilduke&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratikAmbilduke/pratikAmbilduke/output/github-snake.svg" />
 </p>
 
 ---
@@ -71,5 +86,5 @@ Application connecting users with local service providers with live interaction 
 ---
 
 <p align="center">
-  <b>Focused on building real-world impactful software.</b>
+  <b>Building scalable systems. Solving real-world problems.</b>
 </p>
