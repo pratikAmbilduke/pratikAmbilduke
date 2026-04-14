@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Pratik Ambilduke
 
-<!--
-**pratikAmbilduke/pratikAmbilduke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+🚀 Passionate about building real-world applications  
+🤖 Currently working on AI-based projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Java (Full Stack)
+- Spring Boot
+- MySQL
+- Python
+- REST APIs
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- 🔹 ResQ AI (Emergency Smart Service App)
+- 🔹 Service Provider App
+- 🔹 Full Stack Web Applications
+
+---
+
+## 📫 Contact Me
+- LinkedIn: (Add your link)
+- Email: (Add your email)
+
+---
+
+⭐ Keep learning, keep building!
