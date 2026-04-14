@@ -6,6 +6,16 @@
 
 ---
 
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Student (2021–2025)
+- 💻 Java Full Stack Developer
+- 🤖 Building AI-based projects like ResQ AI
+- 📍 Based in Pune, India
+- 🚀 Passionate about solving real-world problems
+
+- --
+
 ## 🔧 Skills
 - Java (Full Stack)
 - Spring Boot
