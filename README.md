@@ -73,8 +73,8 @@ Built using Java, Spring Boot, and MySQL.
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: yourmail@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/pratik-ambilduke-9a1361256/
+- 📧 Email: pratikambilduke09@gmail.com
 
 ---
 
